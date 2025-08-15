@@ -1,0 +1,82 @@
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\images\products\.gitkeep
+wwwroot\images\products\04bc7392-0cce-4810-b358-c0d8ae9fea68_book1.jpg
+wwwroot\images\products\0563b78e-d23c-410d-86e5-aea7255f2a05_download.jpg
+wwwroot\images\products\0777a75d-6c53-45ca-ae68-52c47425951c_book2.jpg
+wwwroot\images\products\1b7b651a-c688-4c2b-a996-a4bdeca7261f_premium_photo-1664392147011-2a720f214e01.jpg
+wwwroot\images\products\28179765-aade-4ba2-a02f-fa5f5131d80a_watch.jpg
+wwwroot\images\products\2a6e3170-7227-4f07-aa15-5230d6a0842d_images (4).jpg
+wwwroot\images\products\3532c696-7607-4b3c-a375-eae17ddd48e1_images.jpg
+wwwroot\images\products\446b5477-e406-4c50-8871-f50bf28817d2_images (3).jpg
+wwwroot\images\products\50813177-ad4f-4006-882e-2dadae599f7f_puma.jpg
+wwwroot\images\products\7186613f-1ebc-4935-9ea1-f2c02ad568de_images (5).jpg
+wwwroot\images\products\8106f10c-a0df-4b20-9641-55a15bf58b33_images (3).jpg
+wwwroot\images\products\84b6babb-2c2c-489d-9b3e-657245a917fc_brown heels.jpg
+wwwroot\images\products\899f8003-c09f-4db8-8492-b32731aa1356_images (1).jpg
+wwwroot\images\products\8dd38f66-c70b-4088-b7f5-b2d51f0e0080_images (2).jpg
+wwwroot\images\products\9d489ceb-dde5-4150-befa-e7026944e475_purse.jpg
+wwwroot\images\products\a683783a-80b5-430c-9603-73bfe3a9c8c0_book.jpg
+wwwroot\images\products\af1ca542-932c-4d99-81cb-afd289900683_images (5).jpg
+wwwroot\images\products\db9a4122-c759-4882-89ea-ed1e4a904d2d_premium_photo-1664392147011-2a720f214e01.jpg
+wwwroot\images\products\f168a317-c347-4d77-baea-e5b904c89ef8_images (4).jpg
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
